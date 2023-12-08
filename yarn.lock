@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@hono/h@file:/workspaces/middleware/packages/opentelemetry":
-  version "0.1.1"
-  resolved "file:packages/opentelemetry"
+"@hono/otel@file:/workspaces/middleware/packages/open-telemetry":
+  version "0.0.1"
+  resolved "file:packages/open-telemetry"
   dependencies:
     "@opentelemetry/api" "^1.7.0"
 
